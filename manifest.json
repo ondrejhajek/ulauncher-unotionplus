@@ -1,7 +1,7 @@
 {
   "required_api_version": "^2.0.0",
   "name": "UNotion+",
-  "description": "Save your notes to Notion",
+  "description": "Save your notes to Notion.so",
   "developer_name": "Ondrej Hajek",
   "icon": "images/icon.png",
   "options": {
